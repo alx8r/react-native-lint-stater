@@ -1,0 +1,6 @@
+metro.config.js
+__tests__
+node_modules/
+ios/
+android/
+vendor/
